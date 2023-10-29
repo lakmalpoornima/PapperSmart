@@ -98,7 +98,7 @@ header {
 }
 #logo {
 	display:block;
-	background:url(../images/logo.png) 0 0 no-repeat;
+	background:url(../images/1.png) 0 0 no-repeat;
 	width:298px;
 	height:79px;
 	text-indent:-9999px
@@ -169,6 +169,13 @@ header {
 }
 .slider .pagination a:hover, .slider .pagination .current a {
 	background-position:left
+}
+
+.about_pic{
+	    /* vertical-align: top; */
+		height: 233px;
+		width: 212px;
+		border-radius: 10px;
 }
 /* content */
 #content {

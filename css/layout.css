@@ -41,6 +41,10 @@
 	padding-bottom:36px
 }
 /* index-2.html */
+
+#page3 #content2 .cols {
+	width:200px
+}
 #page3 .marg_right1 {
 	margin-right:30px
 }
